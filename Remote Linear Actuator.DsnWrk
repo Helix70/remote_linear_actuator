@@ -2,3 +2,11 @@
 Version=1.0
 [Project1]
 ProjectPath=hardware\Remote Linear Actuator\Remote Linear Actuator.PrjPcb
+[Project2]
+ProjectPath=hardware\libraries\AD5162BRMZ100\AD5162BRMZ100.LibPkg
+[Project3]
+ProjectPath=hardware\libraries\RPi-Pico\RPi-Pico.LibPkg
+[Project5]
+ProjectPath=..\..\..\pcb\Siemens Library\Siemens.LibPkg
+[Project6]
+ProjectPath=..\..\..\pcb\CMR\Microprocessor Rev 10\Microprocessor.PrjPcb
